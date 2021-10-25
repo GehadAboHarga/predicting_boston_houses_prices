@@ -34,7 +34,7 @@ from sklearn.model_selection import ShuffleSplit
 import visuals as vs
 
 # Pretty display for notebooks
-get_ipython().run_line_magic('matplotlib', 'inline')
+# get_ipython().run_line_magic('matplotlib', 'inline')
 
 # Load the Boston housing dataset
 data = pd.read_csv('housing.csv')
