@@ -1,8 +1,6 @@
 # predicting_boston_houses_prices
 I've come across the Boston Housing dataset which contains aggregated data on various features for houses in Greater Boston communities, including the median value of homes for each of those areas. This code will build an optimal model based on a statistical analysis with the tools available. This model will then be used to estimate the best selling price for your clients' homes.
 
-### Machine Learning Engineer Nanodegree
-### Model Evaluation and Validation
 ### Project: Predicting Boston Housing Prices
 
 ### Install
